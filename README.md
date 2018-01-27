@@ -6,3 +6,5 @@ Tools for this project: C++, OpenGL and Freeglut.
 
 Download .exe file to play:
 https://drive.google.com/open?id=1fJfyyrfRnFltnOw8B0vWcw_sYkD_CaSU
+
+Enjoy :)
